@@ -39,7 +39,7 @@ void anoBissexto(){
 }
 
 void mediaEscolar(){
-    int nota1, nota2;
+    float nota1, nota2;
     float media;
     system("clear");
     cout << "Digite a nota da primeira prova " << endl;
